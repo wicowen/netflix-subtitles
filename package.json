@@ -1,7 +1,7 @@
 {
-  "name": "NflxMultiSubs",
-  "description": "Bilingual Subtitles & Enhanced Experiences for Netflix",
-  "author": "Dan Chen, maintained by HoboDD",
+  "name": "netflix-subtitles",
+  "description": "Netflix Subtitles, fork from @hobodrifterdavid/NflxMultiSubs",
+  "author": "Dan Chen, HoboDD",
   "version": "1.7.0",
   "license": "MIT",
   "private": true,

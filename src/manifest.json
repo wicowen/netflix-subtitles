@@ -1,10 +1,10 @@
 {
-  "short_name": "NflxMultiSubs",
-	"description": "Bilingual Subtitles & Enhanced Experiences for Netflix",
-  "version": "1.7.2",
-  "name": "NflxMultiSubs (Netflix Multi. Subtitles)",
+  "short_name": "netflix-subtitles",
+	"description": "Netflix Subtitles, fork from @dannvix @hobodrifterdavid / NflxMultiSubs",
+  "version": "1.7.3",
+  "name": "Netflix Subtitles",
   "manifest_version": 2,
-  "author": "Dan Chen, maintained by HoboDD",
+  "author": "@dannvix, @hobodrifterdavid",
 
   "permissions": [
     "webRequest",
