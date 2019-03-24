@@ -11,11 +11,12 @@
   },
   "devDependencies": {
     "acorn": "^5.5.3",
+    "atob": ">=2.1.0",
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4.5.1",
     "fs-extra": "^5.0.0",
     "jszip": "^3.1.5",
     "uglifyjs-webpack-plugin": "^1.2.4",
-    "webpack": "^4.1.1"
+    "webpack": "^4.29.6"
   }
 }
